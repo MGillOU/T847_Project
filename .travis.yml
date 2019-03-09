@@ -6,4 +6,4 @@ python:
 
 script: 
 
-  - python prime.py
+  - python factorial_test.py
