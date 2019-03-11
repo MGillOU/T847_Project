@@ -6,4 +6,4 @@ python:
 
 script: 
 
-  - python factorial_test.py
+  - python even.py
