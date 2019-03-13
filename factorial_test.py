@@ -12,7 +12,7 @@ class TestFactorial(unittest.TestCase):
         Any method which starts with ``test_`` will considered as a test case.
         """
         res = factorial(5)
-        self.assertEqual(res, 120)
+        self.assertEqual(res, 121)
 
     def test_error(self):
         """
